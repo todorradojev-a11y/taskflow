@@ -1,9 +1,3 @@
-# TaskFlow
-
-Full-stack task manager aplikacija — mali projekat napravljen da pokrije tačno
-tech stack koji se traži u oglasu za Junior Software Developer (React, Express,
-Node.js, TypeScript, Tailwind CSS).
-
 ## Funkcionalnosti
 
 - CRUD operacije nad zadacima (kreiranje, čitanje, izmena, brisanje)
