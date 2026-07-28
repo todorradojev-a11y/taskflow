@@ -6,10 +6,6 @@
 - REST API napisan u Express + TypeScript, sa jednostavnom JSON perzistencijom
 - Frontend u React + TypeScript + Tailwind CSS, sa tipiziranim API klijentom
 
-## Tech stack
-
-- **Backend:** Node.js, Express, TypeScript
-- **Frontend:** React, TypeScript, Tailwind CSS, Vite
 
 ## Pokretanje
 
