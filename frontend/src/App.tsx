@@ -57,9 +57,7 @@ export default function App() {
     <div className="min-h-screen bg-slate-50 py-10 px-4">
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl font-bold text-slate-800 mb-1">TaskFlow</h1>
-        <p className="text-slate-500 mb-6">
-          Jednostavan task manager — React, Express, Node.js, TypeScript
-        </p>
+     
 
         <form onSubmit={handleSubmit} className="bg-white rounded-xl shadow p-5 mb-6 space-y-3">
           <input
